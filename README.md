@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bernardDS
 - 👀 I’m interested in coding, data analytics & data visualisations.
-- 🌱 I’m currently learning Python and Power BI
+- 🌱 I’m currently into Python and Power BI
 - 💞️ I’m looking to collaborate on Python and Power BI
 - 📫 How to reach me , try b e r n a r d p e h 7 8 @gmail.com
 
